@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GitHubConsole
 {
@@ -10,6 +6,7 @@ namespace GitHubConsole
    {
       static void Main(string[] args)
       {
+         // This is a new line
          Console.WriteLine("Hello GitHub!");
 
          Console.ReadKey();
